@@ -62,8 +62,8 @@
 </div>
 
 ###
-<div align="center">
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=hafizflow)  
-</div>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hafizflow)  
+
 
 
