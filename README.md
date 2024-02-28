@@ -1,22 +1,8 @@
-<h2 align="left">Hello, folks! 👋</h2>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
-<h4 align="left">I am Hafizur Rahman. Currently, I am working with Mobile Apps Development.</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/hafizur-rahman-201941289/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="@Hafizsp45" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+<p align="left">I am Hafizur Rahaman. I'm currently working on Mobile Development. As a mobile app developer, I use Flutter which is a framework for cross-platform native app development and I really love it.</p>
 
 ###
 
@@ -24,39 +10,29 @@
 
 ###
 
-<h4 align="left">Languages : Dart, C, C++, Java<br>Frameworks : Flutter<br>Database : Firebase, MySql<br>State-Management : GetX<br>Sound idea on REST-API, MVC Architecture<br>Knowledge in Data Structure & Algorithm<br>Understanding of Git & Github</h4>
+<p align="left">- Languages: Dart, Python, Java, C<br>- Frameworks: Flutter<br>- Database: SQLite, Hive<br>- Strong knowledge of RESTful API<br>- Good problem-solving skill<br>- Knowledge of GitHub<br>- Know about business analysis.<br>- Understanding of DSA<br>- Figma for UI/UX</p>
 
 ###
 
-<h3 align="left">Languages:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-</div>
-
-###
-
-<h3 align="left">Frameworks:</h3>
+<h2 align="left">Reach me at</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <a href="hafizur.rahman.cs@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="linkedin.com/in/hafizur-rahman-201941289" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="t.me/hafizflow45" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">Tools & Platform:</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -68,6 +44,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
+
+<h2 align="left">My Github Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizflow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizflow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
