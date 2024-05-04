@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">- Languages: Dart, Python, Java, C<br>- Frameworks: Flutter<br>- Database: SQLite, Hive<br>- Strong knowledge of RESTful API<br>- Good problem-solving skill<br>- Knowledge of GitHub<br>- Know about business analysis.<br>- Understanding of DSA<br>- Figma for UI/UX</h4>
+<h4 align="left">- Languages: Dart, Python, Java, C<br>- Frameworks: Flutter<br>- Bloc, Provider, GetX.<br>- Database: SQLite, Hive<br>- Strong knowledge of RESTful API<br>- Good problem-solving skill<br>- Knowledge of GitHub<br>- Know about business analysis.<br>- Understanding of DSA<br>- Figma for UI/UX</h4>
 
 ###
 
