@@ -32,7 +32,7 @@
                 </td>
                 <td align="center" width="100">
                     <a href="https://t.me/hafizflow45" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="https://skillicons.dev/icons?i=telegram" width="45" height="45" alt="Twitter" />
+                        <img src="[https://skillicons.dev/icons?i=telegram](https://image.similarpng.com/very-thumbnail/2021/10/Telegram-icon-on-transparent-background-PNG.png)" width="45" height="45" alt="Twitter" />
                         <br>Telegram
                     </a>
                 </td>
