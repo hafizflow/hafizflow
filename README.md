@@ -32,7 +32,7 @@
                 </td>
                 <td align="center" width="100">
                     <a href="https://t.me/hafizflow45" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="[[https://skillicons.dev/icons?i=whatsapp](https://img.icons8.com/?size=100&id=yEmPT1iidhE0&format=png&color=000000)](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)" width="45" height="45" alt="Telegram" />
+                        <i class="fa-brands fa-telegram"></i>
                         <br>Telegram
                     </a>
                 </td>
