@@ -15,31 +15,31 @@
 ###
 
 <h3 align="center"><samp>Connect</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-   <td align="center" width="100">
-     <a href="mailto:hafizur.rahman.cs@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
-     </a>
-      <br>Linkedin
-    </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
-      <br>X
-    </td>
-    <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
-      <br>Leetcode
-    </td>
-       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
-      <br>Medium
-    </td>
-  </tr>
-</table>
-<br><br>
-</div>
+    <div style="display: flex; align-items: flex-start; align: center">
+        <table align="center">
+            <tr>
+                <td align="center" width="100">
+                    <a href="mailto:hafizur.rahman.cs@gmail.com" style="text-decoration: none; color: inherit;">
+                        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+                        <br>Email
+                    </a>
+                </td>
+                <td align="center" width="100">
+                    <a href="https://linkedin.com/in/hafizur-rahman-201941289" target="_blank" style="text-decoration: none; color: inherit;">
+                        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+                        <br>Linkedin
+                    </a>
+                </td>
+                <td align="center" width="100">
+                    <a href="https://t.me/hafizflow45" target="_blank" style="text-decoration: none; color: inherit;">
+                        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" />
+                        <br>Telegram
+                    </a>
+                </td>
+            </tr>
+        </table>
+        <br><br>
+    </div>
 
 <h2 align="left">Reach me at</h2>
 
