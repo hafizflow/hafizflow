@@ -32,7 +32,7 @@
                 </td>
                 <td align="center" width="100">
                     <a href="https://t.me/hafizflow45" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="[[https://skillicons.dev/icons?i=linkedin](https://www.svgrepo.com/show/354443/telegram.svg)](https://www.svgrepo.com/show/354443/telegram.svg)" alt="icon" width="45" height="45" />
+                        <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" alt="Telegram" />
                         <br>Telegram
                     </a>
                 </td>
