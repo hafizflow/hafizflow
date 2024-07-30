@@ -85,8 +85,8 @@
   </tr>
   <tr>
     <td align="center" width="100">
-        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg)" alt="icon" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="65" height="65" />
+      <br>Intellij Idea
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
