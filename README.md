@@ -84,8 +84,8 @@
     </td>
   </tr>
   <tr>
-<!--     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="100">
+        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg)" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center"  width="100">
@@ -99,7 +99,7 @@
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td> -->
+    </td>
            <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
