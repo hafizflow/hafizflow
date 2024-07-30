@@ -19,7 +19,9 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
+     <a href="mailto:hafizur.rahman.cs@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+     </a>
       <br>Linkedin
     </td>
       <td align="center" width="100">
