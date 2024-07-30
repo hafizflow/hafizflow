@@ -19,19 +19,19 @@
         <table align="center">
             <tr>
                 <td align="center" width="100">
-                    <a href="mailto:hafizur.rahman.cs@gmail.com" style="text-decoration: none; color: inherit;">
+                    <a href="mailto:hafizur.rahman.cs@gmail.com">
                         <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="45" height="45" />
                         <br>Email
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://linkedin.com/in/hafizur-rahman-201941289" target="_blank" style="text-decoration: none; color: inherit;">
+                    <a href="https://linkedin.com/in/hafizur-rahman-201941289" target="_blank">
                         <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
                         <br>Linkedin
                     </a>
                 </td>
                 <td align="center" width="100">
-                    <a href="https://t.me/hafizflow45" target="_blank" style="text-decoration: none; color: inherit;">
+                    <a href="https://t.me/hafizflow45" target="_blank">
                         <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="45" height="45" alt="Telegram" />
                         <br>Telegram
                     </a>
@@ -41,21 +41,7 @@
         <br><br>
     </div>
 
-<h2 align="left">Reach me at</h2>
-
-###
-
-<div align="left">
-  <a href="mailto:hafizur.rahman.cs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/hafizur-rahman-201941289" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/hafizflow45" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+    
 
 ###
 
