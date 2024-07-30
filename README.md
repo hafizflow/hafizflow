@@ -20,7 +20,7 @@
             <tr>
                 <td align="center" width="100">
                     <a href="mailto:hafizur.rahman.cs@gmail.com" style="text-decoration: none; color: inherit;">
-                        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+                        <img src="https://skillicons.dev/icons?i=gmail" alt="icon" width="45" height="45" />
                         <br>Email
                     </a>
                 </td>
@@ -32,7 +32,7 @@
                 </td>
                 <td align="center" width="100">
                     <a href="https://t.me/hafizflow45" target="_blank" style="text-decoration: none; color: inherit;">
-                        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" />
+                        <img src="https://skillicons.dev/icons?i=telegram" width="45" height="45" alt="Twitter" />
                         <br>Telegram
                     </a>
                 </td>
