@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">Skills I have</h2>
-
-###
-
-<h4 align="left">- Languages: Dart, Python, Java, C<br>- Frameworks: Flutter<br>- Bloc, Provider, GetX.<br>- Database: SQLite, Hive<br>- Strong knowledge of RESTful API<br>- Good problem-solving skill<br>- Knowledge of GitHub<br>- Know about business analysis.<br>- Understanding of DSA<br>- Figma for UI/UX</h4>
-
-###
-
 <h3 align="center"><samp>Connect</samp></h3>
     <div style="display: flex; align-items: flex-start; align: center">
         <table align="center">
