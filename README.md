@@ -78,38 +78,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="65" height="65" />
-      <br>Intellij Idea
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>My SQL
-    </td>
-           <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
        
   </tr>
  <tr>
