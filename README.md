@@ -1,15 +1,13 @@
 ### Hi there 👋🏻
 
 # About Me
-I'm Hafiz, a Flutter developer with a deep passion for Dart and Flutter. 🚀 I'm also pursuing a degree in Software Engineering 📚, and I'm currently immersed in building innovative software and applications. If you'd like to see my work, feel free to check out my portfolio on Instagram! 📱👀
+I'm Hafiz — a passionate Flutter developer and Software Engineering student, now expanding my skills into backend development with Laravel and PHP. 🚀
 
-* 📱 Flutter Developer / Freelancer
-
-* ✨ UI / UX Enthusiast
-
-* 💻 Committed to writing clean, efficient code
-
-* ♥️ Passionate about exploring new places
+💻 Currently building modern apps and APIs with Laravel
+📱 Experienced in Flutter and Dart for crafting beautiful mobile apps
+🎨 UI/UX enthusiast focused on clean, intuitive design
+🧠 Committed to writing efficient, maintainable code
+🌍 Always curious and inspired by new places and ideas
 
 
 
