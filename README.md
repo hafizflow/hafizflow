@@ -1,13 +1,13 @@
 ### Hi there 👋🏻
 
 # About Me
-I'm Hafiz — a passionate Flutter developer and Software Engineering student, now expanding my skills into backend development with Laravel and PHP. 🚀
+I'm Hafiz — a passionate iOS developer and Software Engineering student, now focused on mastering Swift and building elegant, high-performance iOS applications.
 
-💻 Currently building modern apps and APIs with Laravel (PHP) <br>
-📱 Experienced in Flutter and Dart for crafting beautiful mobile apps <br>
-🎨 UI/UX enthusiast focused on clean, intuitive design <br>
-🧠 Committed to writing efficient, maintainable code <br>
-🌍 Always curious and inspired by new places and ideas
+- Currently crafting modern iOS apps using Swift and SwiftUI <br>
+- Experienced in Flutter and Dart with a growing expertise in native Apple development <br>
+- UI/UX enthusiast dedicated to creating smooth, intuitive user experiences <br>
+- Committed to writing clean, efficient, and scalable code <br>
+- Always curious, learning, and inspired to turn creative ideas into reality <br>
 
 
 
