@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 # About Me
-I'm Hafiz — a passionate iOS developer and Software Engineering student, now focused on mastering Swift and building elegant, high-performance iOS applications.
+I'm Hafiz — a passionate iOS developer and Computer Science & Engineering student, now focused on mastering Swift and building elegant, high-performance iOS applications.
 
 - Currently crafting modern iOS apps using Swift and SwiftUI <br>
 - Experienced in Flutter and Dart with a growing expertise in native Apple development <br>
