@@ -91,7 +91,7 @@ contact     : hafizur.rahman.cs@gmail.com
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devShakib015&theme=tokyonight" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizflow&theme=tokyonight" width="90%"/>
 
 </div>
 
@@ -136,7 +136,7 @@ contact     : hafizur.rahman.cs@gmail.com
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devShakib015&bg_color=09090E&color=7C6FFF&line=06D6DB&point=ffffff&area=true&hide_border=true&area_color=7C6FFF20"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hafizflow&bg_color=09090E&color=7C6FFF&line=06D6DB&point=ffffff&area=true&hide_border=true&area_color=7C6FFF20"/>
 
 </div>
 
