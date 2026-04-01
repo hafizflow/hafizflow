@@ -48,23 +48,11 @@ contact     : hafizur.rahman.cs@gmail.com
 
 **📱 Mobile & Cross-Platform**
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,swift,kotlin)](https://skillicons.dev)
-
-**☁️ Cloud & DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions)](https://skillicons.dev)
-
-**🤖 AI & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=firebase,python,django,graphql,js)](https://skillicons.dev)
-
-**🗄️ Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,cpp)](https://skillicons.dev)
 
 **🔧 Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,postman,firebase)](https://skillicons.dev)
 
 </div>
 
