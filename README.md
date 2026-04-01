@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hafizflow&label=Profile+Views&color=7C6FFF&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/hafizflow?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/devShakib015?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/hafizflow?label=Total%20Stars&style=for-the-badge&color=06D6DB)](https://github.com/devShakib015)
+[![GitHub Stars](https://img.shields.io/github/stars/hafizflow?label=Total%20Stars&style=for-the-badge&color=06D6DB)](https://github.com/hafizflow)
 
 </div>
 
