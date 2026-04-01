@@ -32,7 +32,7 @@ contact     : hafizur.rahman.cs@gmail.com
 
 |  |  |
 |:---|:---|
-| 🚀 **6+ years** shipping production Flutter apps | 🏗️ Enterprise-scale system architecture |
+| 🚀 **1+ years** shipping production Flutter apps | 🏗️ Enterprise-scale system architecture |
 | 👥 Led distributed teams of **20+ engineers** | ⚡ **15%** faster delivery via CI/CD |
 | 📊 **20%** ops efficiency gain with analytics | 🔧 **30%** system performance optimization |
 
@@ -95,9 +95,9 @@ contact     : hafizur.rahman.cs@gmail.com
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devShakib015&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devShakib015&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devShakib015&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafizflow&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizflow&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafizflow&theme=tokyonight" width="32%"/>
 
 </div>
 
