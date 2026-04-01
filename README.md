@@ -35,7 +35,7 @@ contact     : hafizur.rahman.cs@gmail.com
 |  |  |
 |:---|:---|
 | 🚀 **1+ years** shipping production Flutter apps | 🏗️ Enterprise-scale system architecture |
-| 👥 Led distributed teams of **20+ engineers** | ⚡ **15%** faster delivery via CI/CD |
+| 👥 Build & Deliver key app features | ⚡ **15%** faster delivery via CI/CD |
 | 📊 **20%** ops efficiency gain with analytics | 🔧 **30%** system performance optimization |
 
 </div>
@@ -62,8 +62,8 @@ contact     : hafizur.rahman.cs@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizflow&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizflow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090E&title_color=7C6FFF&text_color=ffffff"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizflow&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizflow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090E&title_color=7C6FFF&text_color=ffffff"/> -->
 
 </div>
 
@@ -99,23 +99,23 @@ contact     : hafizur.rahman.cs@gmail.com
 <tr>
 <td width="50%">
 
-### 🏗️ Architecture & Engineering
-- Design **enterprise-grade** microservice architectures
-- Build **cross-platform** Flutter apps (Android · iOS · Web)
-- Integrate **AI/ML** pipelines for intelligent logistics
-- Architect **real-time** data systems with Firebase & GCP
+### 🏗️ Development & Engineering
+- Build cross-platform apps using Flutter (Android · iOS)
+- Develop responsive UI/UX with clean architecture (MVC, SOLID)
+- Integrate Firebase services (Auth, Firestore, Notifications)
+- Create real-time features like chat, live updates & streams
 
-</td>
+</td> 
 <td width="50%">
+  
+### 🚀 Skills & Growth
+- Work with full-stack technologies (Node.js, Express, MongoDB)
+- Implement state management (GetX, exploring Riverpod)
+- Optimize apps for performance & scalability
+- Continuously learning advanced Flutter & system design
 
-### 👥 Leadership & Strategy
-- Lead **20+ engineers** across global time zones
-- Drive **technical roadmap** aligned with business goals
-- Implement **CI/CD** pipelines for zero-downtime deploys
-- Mentor developers & enforce **code quality standards**
-
-</td>
-</tr>
+</td> 
+</tr> 
 </table>
 
 ---
