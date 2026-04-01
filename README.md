@@ -17,15 +17,15 @@
 ## 👨‍💻  About Me
 
 ```yaml
-name        : Hossain K M Shahriar
-alias       : devShakib
-role        : Chief Technology Officer @ Shpper (Dubai 🇦🇪)
-experience  : 6+ years in software engineering
+name        : Hafizur Rahman
+alias       : hafizflow
+role        : Flutter Developer @ Shpper (Dubai 🇦🇪)
+experience  : 1+ years in software engineering
 specialty   : Flutter · Firebase · Cloud · AI · DevOps
-focus       : Cross-platform apps · Scalable systems · Team leadership
+focus       : Cross-platform apps · Scalable systems 
 currently   : Scaling Shpper’s logistics & e-commerce platform
-education   : B.Sc. Computer Science — YZU, China (2021)
-contact     : devshakib015@gmail.com
+education   : B.Sc. Computer Science — DIU, BD (2025)
+contact     : hafizur.rahman.cs@gmail.com
 ```
 
 <div align="center">
