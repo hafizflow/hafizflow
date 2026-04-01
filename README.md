@@ -21,7 +21,7 @@
 ```yaml
 name        : Hafizur Rahman
 alias       : hafizflow
-role        : Flutter Developer @ Shpper (Dubai 🇦🇪)
+role        : Junior Flutter Developer @ Shpper (Dubai 🇦🇪)
 experience  : 1+ years in software engineering
 specialty   : Flutter · Firebase · Cloud · AI · DevOps
 focus       : Cross-platform apps · Scalable systems 
