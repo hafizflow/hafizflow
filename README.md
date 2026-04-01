@@ -2,7 +2,9 @@
 
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090E,50:7C6FFF,100:06D6DB&height=200&section=header&text=Hossain%20K%20M%20Shahriar&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CTO%20%40%20Shpper%20%E2%80%A2%20Flutter%20Expert%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20AI%20Builder&descAlignY=55&descSize=17&descColor=B0A8FF"/> -->
 
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Cloud+Architect+%7C+AWS+%2B+GCP+%2B+Azure;AI+%26+ML+Integration+Specialist+%F0%9F%A4%96;CTO+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Building+the+Future+of+Logistics+%F0%9F%93%A6)](https://git.io/typing-svg)
+-->
 
 <br/>
 
