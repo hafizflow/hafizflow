@@ -54,6 +54,16 @@ contact     : hafizur.rahman.cs@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,postman,firebase)](https://skillicons.dev)
 
+
+**✨ Agentic Automation**
+<div>
+<img width="48" height="48" alt="zapier" src="https://github.com/user-attachments/assets/ea4c4dac-0cf0-4a37-94dc-261f3962c58f" />
+<img width="48" height="48" alt="n8n" src="https://github.com/user-attachments/assets/7b21b75e-2315-4b22-8b68-cd3411229d07" />
+<img width="48" height="48" alt="langflow" src="https://github.com/user-attachments/assets/0979f0c3-b5d2-47b9-ba2e-19084d77caa8" />
+<img width="48" height="48" alt="gohighlevel" src="https://github.com/user-attachments/assets/10024b71-fbd0-4769-9730-422fa32f1f85" />
+</div>
+
+
 </div>
 
 ---
