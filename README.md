@@ -1,15 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=Hafizur%20Rahman&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Mobile%20App%20Developer%20@%20Shpper%20%20•%20Dart%20%20•%20Swift%20•%20Flutter%20%20•%20SwiftUI&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=Hafizur%20Rahman&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Flutter%20Developer%20@%20Shpper%20%20•%20Learning%20AI%20%26%20ML%20%F0%9F%A4%96&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/> 
 
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Cloud+Architect+%7C+AWS+%2B+GCP+%2B+Azure;AI+%26+ML+Integration+Specialist+%F0%9F%A4%96;CTO+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Building+the+Future+of+Logistics+%F0%9F%93%A6)](https://git.io/typing-svg)
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Learning+Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Building+real-time+voice+AI+with+PyTorch+%F0%9F%8E%99%EF%B8%8F;Shipping+apps+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hafizflow&label=Profile+Views&color=7C6FFF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/hafizflow?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/devShakib015?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/hafizflow?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/hafizflow?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/hafizflow?label=Total%20Stars&style=for-the-badge&color=06D6DB)](https://github.com/hafizflow)
 
 </div>
@@ -23,9 +21,9 @@ name        : Hafizur Rahman
 alias       : hafizflow
 role        : Junior Flutter Developer @ Shpper (Dubai 🇦🇪)
 experience  : 1+ years in software engineering
-specialty   : Flutter · Firebase · Cloud · AI · DevOps
-focus       : Cross-platform apps · Scalable systems 
-currently   : Scaling Shpper’s logistics & e-commerce platform
+specialty   : Flutter · Firebase · Cross-platform apps
+learning    : Python · PyTorch · Machine Learning · Deep Learning
+currently   : Scaling Shpper’s logistics app · building a real-time voice AI
 education   : B.Sc. Computer Science — DIU, BD (2025)
 contact     : hafizur.rahman.cs@gmail.com
 ```
@@ -50,6 +48,10 @@ contact     : hafizur.rahman.cs@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,cpp)](https://skillicons.dev)
 
+**🧠 AI / ML (learning)**
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,docker)](https://skillicons.dev)
+
 **🔧 Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,postman,firebase)](https://skillicons.dev)
@@ -69,13 +71,6 @@ contact     : hafizur.rahman.cs@gmail.com
 ---
 
 ## 📊  GitHub Stats
-
-<div align="center">
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizflow&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizflow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090E&title_color=7C6FFF&text_color=ffffff"/> -->
-
-</div>
 
 <div align="center">
 
@@ -122,7 +117,7 @@ contact     : hafizur.rahman.cs@gmail.com
 - Work with full-stack technologies (Node.js, Express, MongoDB)
 - Implement state management (GetX, exploring Riverpod)
 - Optimize apps for performance & scalability
-- Continuously learning advanced Flutter & system design
+- Continuously learning advanced Flutter, system design & on-device ML
 
 </td> 
 </tr> 
@@ -167,9 +162,9 @@ contact     : hafizur.rahman.cs@gmail.com
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafizflow/hafizflow/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafizflow/hafizflow/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hafizflow/hafizflow/output/github-snake.svg">
 </picture>
 </div>
 
