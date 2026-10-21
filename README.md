@@ -73,43 +73,6 @@ contact     : hafizur.rahman.cs@gmail.com
 
 ---
 
-## 🚀  What I Build at Shpper
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ Development & Engineering
-- Build cross-platform apps using Flutter (Android · iOS)
-- Develop responsive UI/UX with clean architecture (MVC, SOLID)
-- Integrate Firebase services (Auth, Firestore, Notifications)
-- Create real-time features like chat, live updates & streams
-
-</td> 
-<td width="50%">
-  
-### 🚀 Skills & Growth
-- Work with full-stack technologies (Node.js, Express, MongoDB)
-- Implement state management (GetX, exploring Riverpod)
-- Optimize apps for performance & scalability
-- Continuously learning advanced Flutter, system design & on-device ML
-
-</td> 
-</tr> 
-</table>
-
----
-
-## 📈  Contribution Activity
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hafizflow&bg_color=09090E&color=7C6FFF&line=06D6DB&point=ffffff&area=true&hide_border=true&area_color=7C6FFF20"/>
-
-</div>
-
----
-
 ## 🤝  Connect With Me
 
 <div align="center">
