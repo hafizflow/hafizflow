@@ -5,10 +5,9 @@ name        : Hafizur Rahman
 alias       : hafizflow
 role        : Junior Flutter Developer @ Shpper (Dubai 🇦🇪)
 experience  : 1+ years in software engineering
-specialty   : Flutter · Firebase · Cross-platform apps
+specialty   : Flutter · AI/ML · DevOps
 learning    : Python · PyTorch · Machine Learning · Deep Learning
-currently   : Scaling Shpper’s logistics app · building a real-time voice AI
-education   : B.Sc. Computer Science — DIU, BD (2025)
+education   : B.Sc. Computer Science — DIU, BD (2026)
 contact     : hafizur.rahman.cs@gmail.com
 ```
 
