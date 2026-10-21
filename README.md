@@ -11,17 +11,6 @@ education   : B.Sc. Computer Science — DIU, BD (2026)
 contact     : hafizur.rahman.cs@gmail.com
 ```
 
-<div align="center">
-
-|  |  |
-|:---|:---|
-| 🚀 **1+ years** shipping production Flutter apps | 🏗️ Enterprise-scale system architecture |
-| 👥 Build & Deliver key app features | ⚡ **15%** faster delivery via CI/CD |
-| 📊 **20%** ops efficiency gain with analytics | 🔧 **30%** system performance optimization |
-
-</div>
-
----
 
 ## 🛠️  Tech Arsenal
 
