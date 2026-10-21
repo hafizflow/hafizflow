@@ -1,19 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=Hafizur%20Rahman&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Flutter%20Developer%20@%20Shpper%20%20•%20Learning%20AI%20%26%20ML%20%F0%9F%A4%96&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/> 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Learning+Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Building+real-time+voice+AI+with+PyTorch+%F0%9F%8E%99%EF%B8%8F;Shipping+apps+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hafizflow&label=Profile+Views&color=7C6FFF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/hafizflow?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/hafizflow?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/hafizflow?label=Total%20Stars&style=for-the-badge&color=06D6DB)](https://github.com/hafizflow)
-
-</div>
-
----
-
 ## 👨‍💻  About Me
 
 ```yaml
